@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0px;
+    background-color: rgb(46, 172, 211);
+}
+
+.container{
+    margin: 0 auto;
+    width: 800px;
+    max-width: 1200px;
+    
+    
+}
+
+.containerBody{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    background-color:white;
+    min-height: 300px;
+    max-height: 500px;
+}

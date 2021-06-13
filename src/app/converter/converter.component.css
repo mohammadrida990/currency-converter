@@ -1,0 +1,35 @@
+:host{
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: aqua;
+    font-size: x-large;
+    margin: 20px;
+}
+input ,select{
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-color: red;
+    margin: 10px;
+}
+
+label{
+    margin: 10px;
+}
+
+
+span{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: line-through;
+}
